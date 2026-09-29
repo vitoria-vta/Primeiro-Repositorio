@@ -1,2 +1,4 @@
-# Primeiro Repositorio
+# Primeiro Repositório
 Primeiro Repositório
+
+Repositório criado durante aula!! 
